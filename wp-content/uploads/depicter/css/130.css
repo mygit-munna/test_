@@ -1,0 +1,340 @@
+
+.depicter-revert .depicter-130-element-10{
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-10:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-130-element-10:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-130-element-10 .depicter-arrow-icon{
+	fill:#000000;
+	transition:all ease 0.3s;
+}
+.depicter-130-element-10:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#C00000;
+}
+.depicter-revert .depicter-130-element-11{
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-11:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-130-element-11:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-130-element-11 .depicter-arrow-icon{
+	fill:rgba(0, 0, 0, 0.5);
+	transition:all ease 0.3s;
+}
+.depicter-130-element-11:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#C00000;
+}
+.depicter-revert .depicter-130-element-9{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	background-color:#FC9B00;
+	border-radius:6px;
+}
+.depicter-revert .depicter-130-element-9:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-130-element-9:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+.depicter-revert .depicter-130-element-7{
+	opacity:0.7;
+	font-size:16px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:400;
+	line-height:155%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-6{
+	font-size:20px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-5{
+	font-size:70px;
+	color:#000000;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:100%;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-2{
+	box-shadow:0px 10px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.depicter-revert .depicter-130-element-4{
+	background-color:#FE9D00;
+}
+.depicter-revert .depicter-130-element-3{
+	background-color:#FF9D00;
+}
+.depicter-revert .depicter-130-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-130-element-19{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	background-color:#3B61F4;
+	border-radius:6px;
+}
+.depicter-revert .depicter-130-element-19:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-130-element-19:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	background-color:#000000;
+}
+.depicter-revert .depicter-130-element-18{
+	opacity:0.7;
+	font-size:16px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:400;
+	line-height:155%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-17{
+	font-size:20px;
+	color:#3B61F4;
+	font-family:"Rubik";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-16{
+	font-size:70px;
+	color:#000000;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:100%;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-13{
+	box-shadow:0px 10px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.depicter-revert .depicter-130-element-15{
+	background-color:#3B61F4;
+}
+.depicter-revert .depicter-130-element-14{
+	background-color:#3B61F4;
+}
+.depicter-revert .depicter-130-section-12 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-130-element-29{
+	background-color:transparent;
+	border-width:3px;
+	border-style:solid;
+	border-color:#C91717;
+	border-radius:50%;
+}
+.depicter-revert .depicter-130-element-28{
+	border-radius:369px 369px 369px 369px;
+}
+.depicter-revert .depicter-130-element-27{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	background-color:#000000;
+	border-radius:6px;
+}
+.depicter-revert .depicter-130-element-27:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-130-element-27:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	background-color:#C00000;
+}
+.depicter-revert .depicter-130-element-26{
+	opacity:0.7;
+	font-size:16px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:400;
+	line-height:155%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-24{
+	opacity:1;
+	font-size:75px;
+	color:#F3F3F3;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:100%;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-23{
+	background-color:#C00000;
+}
+.depicter-revert .depicter-130-element-22{
+	background-color:#C00000;
+}
+.depicter-revert .depicter-130-section-20 .depicter-section-background{
+	background-image:linear-gradient(90deg, #B166FF 0%, #C045AD 100%);
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-130-element-10{
+	background-color:transparent;
+}
+.depicter-130-element-10 .depicter-arrow-icon{
+	fill:#000000;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-130-element-10:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-130-element-10 .depicter-arrow-icon{
+	fill:#000000;
+	transition:all ease 0.3s;
+}
+.depicter-130-element-11 .depicter-arrow-icon{
+	fill:rgba(0, 0, 0, 0.5);
+}
+.depicter-revert .depicter-130-element-9{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	background-color:#FC9B00;
+}
+.depicter-revert .depicter-130-element-7{
+	font-size:12px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:400;
+	line-height:155%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-6{
+	font-size:16px;
+	color:#FC9B00;
+	font-family:"Rubik";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-5{
+	font-size:40px;
+	color:#000000;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:100%;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-4{
+	background-color:#FC9B00;
+}
+.depicter-revert .depicter-130-element-3{
+	background-color:#FC9B00;
+}
+.depicter-revert .depicter-130-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-130-element-19{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	background-color:#3B61F4;
+}
+.depicter-revert .depicter-130-element-18{
+	font-size:12px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:400;
+	line-height:155%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-17{
+	font-size:16px;
+	color:#3B61F4;
+	font-family:"Rubik";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-16{
+	font-size:40px;
+	color:#000000;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:100%;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-15{
+	background-color:#3B61F4;
+}
+.depicter-revert .depicter-130-element-14{
+	background-color:#3B61F4;
+}
+.depicter-revert .depicter-130-section-12 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-130-element-27{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	background-color:#C00000;
+}
+.depicter-revert .depicter-130-element-26{
+	font-size:12px;
+	color:#000000;
+	font-family:"Rubik";
+	font-weight:400;
+	line-height:155%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-24{
+	font-size:40px;
+	color:#000000;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:100%;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-130-element-23{
+	background-color:#C00000;
+}
+.depicter-revert .depicter-130-element-22{
+	background-color:#C00000;
+}
+.depicter-revert .depicter-130-section-20 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
